@@ -11,7 +11,7 @@ endif::[]
 = Collection of Wordle Variants
 
 
-[FIRE]
+[CAUTION]
 
 https://rwmpelstilzchen.gitlab.io/wordles/[WORDLES] - This list was made before coming across WORDLES. Now that it exists, this repo has no purpose. Please refer to it. *There are a few variants that it misses are covered here.*
 
