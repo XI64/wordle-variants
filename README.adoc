@@ -1,0 +1,286 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+:toc:
+:toc-placement!:
+
+= Collection of Wordle Variants
+
+
+[FIRE]
+
+https://rwmpelstilzchen.gitlab.io/wordles/[WORDLES] - This list was made before coming across WORDLES. Now that it exists, this repo has no purpose. Please refer to it. *There are a few variants that it misses are covered here.*
+
+
+[IMPORTANT]
+
+Credits go to https://github.com/maxspero[maxspero], the original creator of the https://gist.github.com/maxspero/0a2f536b9561d829caf6bd994a34193d[wordle_variants.md] list. This is a "fork" of his work with the aim of keeping a more updated list. We are grateful for his effort on attempting to collect all wordle variants!
+
+This list borrows a LOT from the original wordle_variants.md
+
+---
+
+.**Table of Contents**
+
+toc::[]
+
+---
+
+[WARNING]
+
+`[ND]` tag means there is NO dark mode.
+`[OS]` tag means Open Source.
+
+
+== Wordle
+
+* https://www.nytimes.com/games/wordle/index.html[wordle] - The original¹
+
+== Worlde-like
+
+_Keeping the theme idea the same, differing mechanics_
+
+_This section complements the `# Wordle Direct Variants` Section_
+
+* https://wordlearchive.com/[wordlearchive] - All the past wordle  puzzles
+* https://hellowordl.net/[hellowordl] - Wordle but with more alphabets
+* https://wordplay.com/[wordplay] - Wordle but cooler
+* https://engaging-data.com/wordguessr-wordle/[wordguessr-wordle]
+* https://www.chigozie.co.uk/rewordle/[Rewordle]
+* https://wordle10.com/[WordleWordle] - Wordle twice
+* https://octokatherine.github.io/word-master/[Word Master]
+
+== Multiplayer
+
+* http://wordle.jonyork.net/[Wordle Off]
+* https://squabble.me/[squabble]
+* https://mottaquikarim.github.io/wordle_with_friends/[wordle_with_friends] - Pick a word, send a link and ask your friend to play
+* https://wordhoot.com/[wordhoot]
+* https://www.worduel.net/[Worduel] - `[ND]`
+
+== Multiple Wordle Grids
+
+* https://duotrigordle.com/[Duotrigordle] - 32 Duotrigordle words in 37 tries
+* https://zaratustra.itch.io/dordle[dordle] - 2 grids
+* https://engaging-data.com/tridle/[tridle] - 3 grids
+* https://www.quordle.com/[quordle] - 4 grids
+* https://octordle.com/[octordle] - 8 grids
+* http://sedecordle.com/?mode=daily[sedecordle] - 16 grids
+* https://jonesnxt.github.io/kilordle/[kilordle] - 1000 grids
+* https://polydle.github.io/[polydle] - Custom grid numbers. Max: 2315
+* https://doodle-pile.gitlab.io/thirtle/[thirtle] - 30 grids
+* https://64ordle.au/[64ordle] - Sexaginta-Quattuordle
+
+
+== Wordle Direct Variants
+
+* https://www.wooferzfg.me/seven-wordles/[Seven Wordles] - Speed Wordle
+* https://fubargames.se/squardle/[Squardle] - Wordle in two dimensions
+across a 5x5 grid with six different words.
+* https://qntm.org/files/absurdle/absurdle.html[Absurdle],
+https://swag.github.io/evil-wordle/[Evil Wordle] - Wordle rules, but the
+answer is adversarial. Infinite guesses.
+* https://limpet.net/qwrtl/[QWRTL] - Wordle without the letter E.
+* https://wafflegame.net/[Waffle] - Squaredle grid (5x5 grid with six
+words) with shuffled letters and 15 swaps to find the correct grid.
+* http://reversle.net[Reversle] - Given an answer and grid of clues,
+find a sequence of words that matches the clues as quickly as possible.
+* https://reverdle.vercel.app/[Reverdle] - Wordle, but in reverse
+* https://lazyguyy.github.io/survivle/[Survivle] - Normal Wordle rules
+but you must use the information you have and the goal is to play as
+many rounds as possible without finding the answer.
+* https://www.timblack.net/absurvivle/[Absurvivle] - Absurdle but the
+goal is to survive as long as possible.
+* https://engaging-data.com/scrabwordle/[Scrabwordle] - Wordle, but your
+word must also match a given Scrabble score.
+* https://xordle.org/[xordle] - Wordle with two disjoint answers but
+only one board. Guess both words correctly to win.
+* https://fibble.xyz/[Fibble] - Wordle, but the clue contains one lie in
+every row.
+* https://word.rodeo/Sixdle/[Sixdle] - Wordle with six-letter words and
+answers.
+* https://warmle.org/[Warmle] - Wordle, but a yellow clue lets you know
+if are within 3 letters alphabetically for that position.
+* https://vegeta897.github.io/wordle-peaks/[Wordle Peaks] - Wordle, but
+each position is hinted based on the alphabetical direction of the
+answer’s letter in that position.
+* https://www.symble.app/[Symble] - Wordle, but hints are given as a
+random 3 symbols and it is up to the player to determine what the
+symbols mean. Important to note: symbols clue at the answer letter in
+that position, not the guessed letter.
+* https://quodle.web.app/[Quodle] - Wordle, but you guess qutoes.
+* https://www.chigozie.co.uk/invisidle/[invisidle] - Invisible words.
+
+== Language/Regional Variants
+
+* https://shakespearegeek.github.io/bardle/[Bardle] - Words come from Shakespeare characters, classic quotes and general theatre terminology.
+* https://www.idelan.com/lingpal[lingpal] - Play, even in a language you don't know
+* https://wordle.louan.me/[Le Mot] - French
+* https://sutom.nocle.fr/[SUTOM] - French. Words are 6-9 letters long,
+and the first letter is given.
+* https://sebastianomorando.github.io/wordle-it/[Verba] - Italian
+* https://wordle.danielfrg.com/[Wordle (ES)] - Spanish
+* https://term.ooo/[Termo] - Portugese
+* https://ordlig.se/[ordlig.se] - Swedish
+* https://facle.netlify.app/[Facl] - Scottish Gaelic
+* https://wordle.uber.space/[wordle-spielen.de] - German
+* https://wordle.uber.space/[WORDLE PÅ NORSK] - Norwegian
+* https://meduyeket.net/[meduyeket.net] - Hebrew
+* https://kerdle.vercel.app/[Kerdle] - Cornish Wordle
+* https://nakosung.github.io/wordle/[Wordle by nakosung] - Korean Wordle
+* https://www.rhwyd.org/wordle/[Wordle Cymraeg] - Welsh Wordle
+* https://tilde.town/~dustin/wordle-toki/[musi nimi] - Toki Pona Wordle
+* https://manishearth.github.io/ipadle/#[IPAdle] - Wordle with the
+International Phonetic Alphabet
+* https://wordawazzle.com.au/[Wordawazzle] - Aussie Slang
+* https://www.jewdle.app/[Jewdle] - English words relating to Judaism
+
+== Math Variants
+
+* https://converged.yt/primel/[Primel] - Guess a five-digit prime in six
+guesses. Each guess must be prime.
+* https://github.andrewt.net/primal/[Primal] - Primel version by Andrew Taylor
+* https://www.mathler.com/[Mathler] - Guess a six-character expression
+that equals a given number.
+* https://numberle.org/[Numberle] - Guess the mathematical equation in 6 tries
+* https://mathwordle.com/[MathWordle] - Same as Numberle but with a custom generator as well
+* https://nerdlegame.com/[Nerdle] - Guess an eight-character equation.
+* https://somethingorotherwhatever.com/oeisle/[OEISLE] - Guess Integer Sequences from OEIS.
+
+== Answer categories
+
+* https://rbrignall.github.io/byrdle/[Byrdle] - Answer will be related
+to choral music.
+* https://agreenerworldle.org/[A Greener Wordle] - Answer will be
+related to climate change.
+* https://bts-wordle.vercel.app/[Wordle-BTS] - Answer will be related to
+BTS.
+* https://www.moxfield.com/moxle[Moxle] - Answer will be a 5-letter
+Magic: the Gathering card name.
+* https://sweardle.com/[Sweardle] - Answer will be a four-letter swear
+word. Guess it in four guesses.
+* https://www.jellyneo.net/jordle/[Jordle] - Answer will be
+Neopets-related.
+* https://queerdle.com/[Queerdle] - Answer will be queer related words
+of various lengths.
+* https://ygo-wordle.vercel.app/[YGODLE] - Answer will be Yu-Gi-Oh!
+related.
+
+== Guessing and Answer Categories
+
+_The set of legal guesses == the set of answers_
+
+* https://oundle.andrewchapman.info/[Oundle] - Guesses and answers must
+be a British place name.
+* https://www.lewdlegame.com/[Lewdle] - Guesses and answers must be in
+the lewd word dictionary.
+* https://paimordle.vercel.app/[Paimordle] - Guesses and answers must be
+characters, items, and concepts relating to Genshin Impact.
+* https://brdl.alex.gd/[BRDL] - Guesses and answers must be a 4-letter
+bird banding code.
+* https://www.nga.gov/artle.html[Artle] - Guess the artist given a work of art
+* https://likewisetv.com/arcade/moviedle[moviedle] - Sped up movie, guess the title. Failed = Slowed down clip.
+
+== Fandom Variants
+
+* https://www.nytimes.com/games/wordle/index.html[Enchant Worldle] -
+Magic: the Gathering. Guess a card in 20 tries, recieving hints on card
+properties.
+* https://tirtl.glitch.me/[tirtl] - wordle for autostraddle fans.
+* https://commandercodex.com/[Commander Codex] - Magic: the Gathering.
+Guess a commander and receive hints based on card properties.
+* https://squirdle.fireblend.com/[Squirdle] - Pokémon. Guess a Pokémon
+and receive hints based on Pokémon properties.
+* https://digitaltolkien.github.io/vue-wordle/[Lordle of the Rings] -
+Lord of the Rings. Uses only five-letter words (including names) in the
+main text of Lord of the Rings
+* https://wordle.starwars.guide/[Swordle] - Star Wars. Guess 5-character
+Star Wars words including numbers and dashes.
+
+== Transit/Geography
+
+* https://airportle.glitch.me/[Airportle (Avi Bagla)],
+https://airportle.scottscheapflights.com/[Airportle (Scott’s Cheap
+Flights)] - Guesses and answers must be three-letter airport codes.
+* https://metrodle.com/[Metrodle] - Guess your destination on the London Underground
+* https://www.subwaydle.com/[Subwaydle] - Guess a valid NYC subway trip
+from point A to point B.
+* https://worldle.teuteuf.fr/[Worldle] - Guess a country by its outline.
+Hints are distance and direction between the guessed country and the
+answer country.
+* https://globle-game.com/[Globle] - Guess a country based on
+color-coded hints indicating distance.
+* https://oec.world/en/tradle/[Tradle] - Guess a country based on its
+export profile.
+* https://www.flagdle.org/[Flagdle] - Guess a country based on its flag.
+Hints are a similarity score between your guess’s flag and the actual
+flag.
+* https://www.flagle.io/[Flagle] - Guess a country based a 2x3 grid of a
+flag that reveals one square with each guess.
+* https://ducc.pythonanywhere.com/flaggle/[Flaggle] - Flag guesser.
+
+== Game2Wordle Variants
+
+* https://poeltl.dunk.town/[Poeltl] - Guess NBA player names
+* https://mahjong-handle.update.sh/[Mahjong Handle] - Guess the riichi mahjong hand in 6 tries.
+* https://crickle.thecrazeapp.com/[Crickle] - Guess cricket related words or cricketer names.
+* https://babablacksheep.io/nurdle/[Nurdle] - Guess only names of cricketers. `[ND]`
+* https://jackli.gg/chessle/[Chessle] - Chess
+* https://www.chessguessr.com/[Chessguessr] - Like Chessle but to identify the moves in a game that actually happened from a certain position of the game
+openings.
+* https://missing11.com/who-are-ya/[Who-are-ya] - Guess the footballer name in 8 tries.
+* https://playboardle.com/[Boardle] - Like Chessle but to identify the moves in a given puzzle
+* https://poklegame.com/[Pokle] - A Texas Hold'em Puzzle
+* https://yewang.github.io/fusekle/[Fusekle] - Like Wordle, but for Go openings (fuseki).
+* https://gordle.herokuapp.com/[Gordle] - Last name of an NHL player past or present
+* https://crosswordle.vercel.app/?daily=1[Crosswordle 1]
+* https://crosswordle.serializer.ca/[crosswordle 2]
+* https://crosswordle.mekoppe.com/[Crosswordle 3]
+
+== Joke Variants
+
+* https://edjefferson.com/letterle/[Letterle] - Guess one letter in 26
+guesses.
+* https://www.dialup.net/windle/[Windle] - Wordle built for Windows 3.1.
+* https://rsk0315.github.io/playground/passwordle.html[Passwordle] -
+Receive hints based on the difference between SHA-256 hash of your guess
+and the hash of the answer.
+
+== Other Variants
+
+* https://www.chordle.synthase.cc/[Chordle] - Guess chords
+* https://semantle.novalis.org/[Semantle] - Guess any word or phrase.
+Hints are the Word2Vec semantic distance between guess and answer.
+* http://scidle.co.uk/[Scidle] - Like wordle, but you create a word or
+phrase using five consecutive elements from the periodic table.
+* https://pictle.web.app/[Pictle] - Using Wordle rules, use guesses to
+match a picture inspired by the Wordle puzzle from 7 days ago.
+* https://www.heardle.app/[SpotifyHeardle] - Guess a song by hearing
+increasingly long opening snippets. Features design language from Wordle.
+* https://heardle.glitch.me/[HeardlePhonemic] - A phonemic version of wordle
+* https://squaredle.app/[Squaredle] - Boggle-like word finding game.
+Features design language from Wordle.
+* https://rwordle.vercel.app/[Rwordle] - Guess the most obsolete word
+
+== Not Variants.
+
+_Similar Design but different Mechanics_
+
+* https://weavergame.org/[Weaver] - Invented by Lewis Caroll in 1877. "Weave words" together.
+* https://www.antiwordle.com/[AntiWordle]
+
+
+
+
+== THE ARCHIVE
+
+== No longer working
+
+* Taylordle - Answer will be related to
+Taylor Swift.
+* HardWordle - Hard words
+* Wordle2
